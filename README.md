@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Main {
@@ -7,6 +6,7 @@ public class Main {
         float total = 500;
 
         System.out.println("Enter marks for 5 subjects: ");
+
         System.out.println("English: ");
         float a = sc.nextFloat();
 
@@ -29,4 +29,6 @@ public class Main {
         System.out.println("Marks Percentage is: " + percentage + "%");
     }
 }
+
+
 
